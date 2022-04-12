@@ -4,7 +4,7 @@
   "description": "Vinyl adapter for the file system.",
   "author": "Shreyas",
   "repository": "shreyasch/vinyl-fss",
-  "license": "MIT",
+  "license": "New",
   "engines": {
     "node": ">= 0.10"
   },
