@@ -2,9 +2,13 @@
   "name": "vinyl-fs",
   "version": "3.0.3",
   "description": "Vinyl adapter for the file system.",
-  "author": "Shreyas",
+  "author": "Gulp Team <team@gulpjs.com> (http://gulpjs.com/)",
+  "contributors": [
+    "Eric Schoffstall <yo@contra.io>",
+    "Blaine Bublitz <blaine.bublitz@gmail.com>"
+  ],
   "repository": "shreyasch/vinyl-fss",
-  "license": "New",
+  "license": "MIT",
   "engines": {
     "node": ">= 0.10"
   },
