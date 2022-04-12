@@ -7,7 +7,7 @@
     "Eric Schoffstall <yo@contra.io>",
     "Blaine Bublitz <blaine.bublitz@gmail.com>"
   ],
-  "repository": "shreyasch/vinyl-fs",
+  "repository": "shreyasch / vinyl-fs",
   "license": "MIT",
   "engines": {
     "node": ">= 0.10"
