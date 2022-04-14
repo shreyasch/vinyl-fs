@@ -46,7 +46,7 @@
     "vinyl-sourcemap": "^1.1.0"
   },
   "devDependencies": {
-    "eslint": "^1.10.3",
+    "eslint": "^8.13.0",
     "eslint-config-gulp": "^2.0.0",
     "expect": "^1.19.0",
     "istanbul": "^0.4.3",
